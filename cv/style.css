@@ -24,6 +24,9 @@ h1{
 h2{
   font-size:45px;
 }
+ol{
+  border:10 px solid #0A4DF6
+}
 
 }
 @media screen and (max-width: 600px) {

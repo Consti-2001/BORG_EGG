@@ -23,7 +23,7 @@ h1{
 }
 
 ol{
-  border:5px dashed #7C0B0B;
+  border:5px dashed #FF00F3;
 }
 @media screen and (max-width: 600px) {
   .left, .right{

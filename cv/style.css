@@ -25,3 +25,7 @@ h1{
 ol{
   border:5px dashed #7C0B0B;
 }
+@media screen and (max-width: 600px) {
+  .left, .right{
+    width:100%;
+  }
